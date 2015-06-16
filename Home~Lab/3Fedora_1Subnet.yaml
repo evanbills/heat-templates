@@ -19,7 +19,7 @@ parameters:
     description: SSH key to connect to the servers
   flavor: 
     type: string
-    default: m1.tiny
+    default: m1.small
     description: flavor used by the servers
 
 
