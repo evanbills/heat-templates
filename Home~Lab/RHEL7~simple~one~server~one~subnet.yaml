@@ -15,7 +15,7 @@ parameters:
     description: RHEL 7 Test Image
   key_name: 
     type: string
-    default: evan-pub-key
+    default: AnsibleMaster 
     description: SSH key to connect to the servers
   flavor: 
     type: string
